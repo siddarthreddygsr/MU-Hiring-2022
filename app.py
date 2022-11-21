@@ -84,6 +84,7 @@ st.markdown("## Trends to Observe")
 
 first_chart, second_chart = st.columns(2)
 st.image('index.png')
+st.image('index2.jpeg')
 # third_chart = st.columns(1)
 
 with first_chart:
