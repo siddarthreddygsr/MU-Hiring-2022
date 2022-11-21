@@ -94,6 +94,7 @@ with first_chart:
 st.markdown(">> Students have attended event 1 and event 2 of clubs more than event 3 ")
 st.markdown(">> Total fest events: 27 ")
 st.markdown(">> Total club events : 9")
+st.markdown(">> Students attended more fest events than club events from the comparision of these graphs.")
 
 
 with second_chart:
