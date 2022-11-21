@@ -1,0 +1,22 @@
+
+    {
+        'name': 'Dummy',
+        'id': 'id',
+        'clubs': {
+            'club_i': {
+                'isOrganiser': 'Organiser',
+                'club_i_event_j': {
+                    'participated': False
+                    },
+            },
+        },
+        'fests': {
+            'fest_i': {
+                'isOrganiser': '',
+                'fest_i_event_j': {
+                    'participated': True
+                    },
+            },
+        }
+    }
+
